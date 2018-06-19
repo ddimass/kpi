@@ -62,12 +62,6 @@ See also the list of [contributors]() who participated in this project.
 
 
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
 ## TODO
 - [x] Create project
 - [x] Add applications
